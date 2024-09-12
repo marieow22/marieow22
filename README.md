@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marieow22
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning c#
